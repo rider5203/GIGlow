@@ -1,6 +1,7 @@
-# GIGlow: 3dmigoto原神光效模组
+# GIGlow: 3dmigoto原神动态光效模组
 
-## 参考自GIMI的[特效修改教程](https://github.com/SilentNightSound/GI-Model-Importer/blob/main/Guides/CN_EffectModdingTutorial.md)
+## 参考GIMI的[特效修改教程](https://github.com/SilentNightSound/GI-Model-Importer/blob/main/Guides/CN_EffectModdingTutorial.md)
+## 参考TexFX的[着色器写法](https://github.com/SinsOfSeven/TexFx)
 
 ## 效果
 *  ### 常驻
