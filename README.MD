@@ -43,7 +43,7 @@ run = CommandList\GIGlow\Clear
 post $active = 0
 
 [TextureOverride_VB_e7612ed8__Position]
-hash = 8239be13
+hash = xxx
 vb0 = Resourcee7612ed8Position
 $active = 1
 ```
