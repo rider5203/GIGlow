@@ -5,16 +5,20 @@
 
 ## 效果
 *  ### 常驻
-<div align="center"><video src="./assets/常驻.mp4" autoplay="false" controls="controls" style="width: 500px"></video></div>
+https://github.com/user-attachments/assets/9d51d800-06a4-4df6-873a-48525c46373f
+<!-- <div align="center"><video src="https://github.com/user-attachments/assets/9d51d800-06a4-4df6-873a-48525c46373f.mp4" autoplay="false" controls="controls" style="width: 500px"></video></div> -->
 
 *  ### 渐隐
-<div align="center"><video src="./assets/渐隐.mp4" autoplay="false" controls="controls" style="width: 500px"></video></div>
+https://github.com/user-attachments/assets/1c8ace70-4de9-491b-a8a7-571796d9b699
+<!-- <div align="center"><video src="https://github.com/user-attachments/assets/1c8ace70-4de9-491b-a8a7-571796d9b699" autoplay="false" controls="controls" style="width: 500px"></video></div> -->
 
 *  ### 流动
-<div align="center"><video src="./assets/流动.mp4" autoplay="false" controls="controls" style="width: 500px"></video></div>
+https://github.com/user-attachments/assets/401eb60f-2f39-436d-b426-5e7a4aef9833
+<!-- <div align="center"><video src="https://github.com/user-attachments/assets/401eb60f-2f39-436d-b426-5e7a4aef9833" autoplay="false" controls="controls" style="width: 500px"></video></div> -->
 
 *  ### 变色
-<div align="center"><video src="./assets/变色.mp4" autoplay="false" controls="controls" style="width: 500px"></video></div>
+https://github.com/user-attachments/assets/6b23a51e-ac8c-4867-a945-2235ed24182f
+<!-- <div align="center"><video src="https://github.com/user-attachments/assets/6b23a51e-ac8c-4867-a945-2235ed24182f" autoplay="false" controls="controls" style="width: 500px"></video></div> -->
 
 ## 使用方法
 
