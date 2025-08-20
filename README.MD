@@ -28,10 +28,10 @@ https://github.com/user-attachments/assets/6b23a51e-ac8c-4867-a945-2235ed24182f
 <div align="center"><img src="./assets/mod.png"></div>
 
 ### 3. 找到想要修改纹理所在的漫反射贴图，并扣出修改部分
-<div align="center"><img src="./assets/diffuse.png" width="500px"></div>
+<div align="center"><img src="./assets/diffuse.png" width="300px"></div>
 
-### 4. 新建图层，将扣出的修改部分粘贴到新图层上，删除旧图层，另存为新的DDS贴图，格式选择BC7(sRGB，DX 11+)，命名为glowcontrolmap.dds（任意名字即可）
-<div align="center"><img src="./assets/modifytex.png" width="500px"></div>
+### 4. 新建图层，将扣出的修改部分粘贴到新图层上，并改为想要的颜色（或图案纹理），删除旧图层，另存为新的DDS贴图，格式选择BC7(sRGB，DX 11+)，命名为glowcontrolmap.dds（任意名字即可）
+<div align="center"><img src="./assets/modifytex.png" width="300px"></div>
 
 ### 5. 【可选】在新贴图中选中修改纹理，添加透明度渐变以获得“流动”效果（不透明度高的纹理先出现）
 <div align="center"><img src="./assets/liudong.png" width="300px"></div>
