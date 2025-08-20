@@ -1,8 +1,5 @@
 # GIGlow: 3dmigoto原神动态光效模组
 
-## 参考GIMI的[特效修改教程](https://github.com/SilentNightSound/GI-Model-Importer/blob/main/Guides/CN_EffectModdingTutorial.md)
-## 参考TexFX的[着色器写法](https://github.com/SinsOfSeven/TexFx)
-
 ## 效果
 *  ### 常驻
 https://github.com/user-attachments/assets/9d51d800-06a4-4df6-873a-48525c46373f
@@ -189,3 +186,5 @@ filename = path\to\your\glowcontrolmap.dds
 * 纳塔角色在夜魂状态下不生效（着色器逻辑不同未能捕获）
 
 ### *第一次尝试修改着色器，若有错误欢迎指正修改:D*
+### 参考GIMI的[特效修改教程](https://github.com/SilentNightSound/GI-Model-Importer/blob/main/Guides/CN_EffectModdingTutorial.md)
+### 参考TexFX的[着色器写法](https://github.com/SinsOfSeven/TexFx)
